@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nandini
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Data Structures and Algorithm on Leetcode.
+- 🌱 I’m currently learning Data Structures and Algorithm and working on some awesome projects.
 - 📫 How to reach me kumarinandini824@gmail.com
 - 
 
